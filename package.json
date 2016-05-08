@@ -1,0 +1,33 @@
+{
+  "name": "babel-preset-angular2",
+  "version": "0.0.1",
+  "description": "Babel preset for angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuhei/babel-preset-angular2.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "angular",
+    "angular2",
+    "ng2",
+    "decorator"
+  ],
+  "author": "Shuhei Kagawa <shuhei.kagawa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuhei/babel-preset-angular2/issues"
+  },
+  "homepage": "https://github.com/shuhei/babel-preset-angular2#readme",
+  "dependencies": {
+    "babel-plugin-angular2-annotations": "^5.1.0",
+    "babel-plugin-transform-class-properties": "^6.8.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0"
+  }
+}
