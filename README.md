@@ -25,3 +25,5 @@ Add the following line to your `.babelrc` file:
   "presets": ["es2015", "angular2"]
 }
 ```
+
+See [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) for more complete example.
