@@ -12,7 +12,7 @@ This preset includes the following plugins:
 ## Installation
 
 ```sh
-npm install -D babel-preset-angular2 babel-preset-2015
+npm install -D babel-preset-angular2 babel-preset-es2015
 ```
 
 ## Usage
